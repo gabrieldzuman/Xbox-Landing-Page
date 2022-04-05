@@ -1,0 +1,63 @@
+body {
+	background-image: url('xbox.jpg');
+	background-repeat: no-repeat;
+    background-size:800px;
+    bottom: 0;
+    background-color: white;
+    left: 0;
+    overflow: auto;
+    padding: 0em;
+    position: relative;
+    right: 0;
+    top: 4em;
+    font-family: SegoeProBlack, Segoe UI, SegoeUI, Helvetica, Arial, sans-serif;
+}
+
+.compre h1 {
+	color: #000;
+	margin-top: 50px
+}
+
+div {
+	margin-left: 680px;
+}
+
+a {
+	color: black;
+	font-size: 20px;
+}
+
+.x{
+	margin-left: 680px;
+	text-align: left;
+	margin-right: 75px;
+	border: medium;
+    font-size: 20px;
+}
+
+.s {
+	margin-left: 200px;
+	text-align: left;
+	margin-right: 75px;
+	border: medium;
+    font-size: 20px;
+}
+
+.footer {
+	
+	width: 100%;
+	background: #000;
+	color: #FFF;
+	padding: 5px 9px;
+	margin-left: -10px;
+  }
+  
+  .footer p {
+	font-size: 15px;
+	line-height: 20px;
+	color: #c0c0c0;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: bold;
+	text-align: center;	
+  }
