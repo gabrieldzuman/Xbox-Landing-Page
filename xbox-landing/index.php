@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 	<html lang="pt-br">
 	<head>
 		<title>XBOX - Home</title>
@@ -21,7 +21,7 @@
 	<br>
 	<footer>
 	<div class="footer">
-				<p>&copy; LegatumProject 2022 - Alguns direitos reservados.<br>
+				<p>&copy;2023 - Alguns direitos reservados.<br>
 					<small>Desenvolvido por Gabriel Dzuman</small></p>
 	</div>
 	</footer>
